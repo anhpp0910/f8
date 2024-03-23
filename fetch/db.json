@@ -1,0 +1,34 @@
+{
+  "courses": [
+    {
+      "name": "Lập Trình JavaScript Nâng Cao",
+      "description": "Hiểu sâu hơn về cách Javascript hoạt động, tìm hiểu về IIFE, closure, reference types, this keyword, bind, call, apply, prototype, ...",
+      "id": 9
+    },
+    {
+      "name": "Lập Trình JavaScript Nâng Cao",
+      "description": "Hiểu sâu hơn về cách Javascript hoạt động, tìm hiểu về IIFE, closure, reference types, this keyword, bind, call, apply, prototype, ...",
+      "id": 10
+    },
+    {
+      "name": "Lập Trình JavaScript Nâng Cao",
+      "description": "Hiểu sâu hơn về cách Javascript hoạt động, tìm hiểu về IIFE, closure, reference types, this keyword, bind, call, apply, prototype, ...",
+      "id": 11
+    },
+    {
+      "name": "Lập Trình JavaScript Nâng Cao",
+      "description": "Hiểu sâu hơn về cách Javascript hoạt động, tìm hiểu về IIFE, closure, reference types, this keyword, bind, call, apply, prototype, ...",
+      "id": 12
+    },
+    {
+      "name": "Lập Trình JavaScript Nâng Cao",
+      "description": "Hiểu sâu hơn về cách Javascript hoạt động, tìm hiểu về IIFE, closure, reference types, this keyword, bind, call, apply, prototype, ...",
+      "id": 13
+    },
+    {
+      "name": "Lập Trình JavaScript Nâng Cao",
+      "description": "Hiểu sâu hơn về cách Javascript hoạt động, tìm hiểu về IIFE, closure, reference types, this keyword, bind, call, apply, prototype, ...",
+      "id": 14
+    }
+  ]
+}
